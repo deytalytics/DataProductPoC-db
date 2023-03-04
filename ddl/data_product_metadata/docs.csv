@@ -1,0 +1,2 @@
+dp_id,description,data_sharing_agreement_url,license_info_url,contact_email,terms_of_service_url
+1,"This API returns high quality analytical business data","http://dsa.html","https://fastapi.tiangolo.com/#license","james.dey@shell.com","http://tos.html"

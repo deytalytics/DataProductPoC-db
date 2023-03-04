@@ -1,0 +1,264 @@
+CountryNumber,CountryName,TwoLetterCountryCode,ThreeLetterCountryCode,ContinentCode
+1.0,"Enland",EN,ENG,EU
+4.0,"Afghanistan, Islamic Republic of",AF,AFG,AS
+8.0,"Albania, Republic of",AL,ALB,EU
+10.0,Antarctica (the territory South of 60 deg S),AQ,ATA,AN
+12.0,"Algeria, People's Democratic Republic of",DZ,DZA,AF
+16.0,American Samoa,AS,ASM,OC
+20.0,"Andorra, Principality of",AD,AND,EU
+24.0,"Angola, Republic of",AO,AGO,AF
+28.0,Antigua and Barbuda,AG,ATG,
+31.0,"Azerbaijan, Republic of",AZ,AZE,EU
+31.0,"Azerbaijan, Republic of",AZ,AZE,AS
+32.0,"Argentina, Argentine Republic",AR,ARG,SA
+36.0,"Australia, Commonwealth of",AU,AUS,OC
+40.0,"Austria, Republic of",AT,AUT,EU
+44.0,"Bahamas, Commonwealth of the",BS,BHS,
+48.0,"Bahrain, Kingdom of",BH,BHR,AS
+50.0,"Bangladesh, People's Republic of",BD,BGD,AS
+51.0,"Armenia, Republic of",AM,ARM,EU
+51.0,"Armenia, Republic of",AM,ARM,AS
+52.0,Barbados,BB,BRB,
+56.0,"Belgium, Kingdom of",BE,BEL,EU
+60.0,Bermuda,BM,BMU,
+64.0,"Bhutan, Kingdom of",BT,BTN,AS
+68.0,"Bolivia, Republic of",BO,BOL,SA
+70.0,Bosnia and Herzegovina,BA,BIH,EU
+72.0,"Botswana, Republic of",BW,BWA,AF
+74.0,Bouvet Island (Bouvetoya),BV,BVT,AN
+76.0,"Brazil, Federative Republic of",BR,BRA,SA
+84.0,Belize,BZ,BLZ,
+86.0,British Indian Ocean Territory (Chagos Archipelago),IO,IOT,AS
+90.0,Solomon Islands,SB,SLB,OC
+92.0,British Virgin Islands,VG,VGB,
+96.0,Brunei Darussalam,BN,BRN,AS
+100.0,"Bulgaria, Republic of",BG,BGR,EU
+104.0,"Myanmar, Union of",MM,MMR,AS
+108.0,"Burundi, Republic of",BI,BDI,AF
+112.0,"Belarus, Republic of",BY,BLR,EU
+116.0,"Cambodia, Kingdom of",KH,KHM,AS
+120.0,"Cameroon, Republic of",CM,CMR,AF
+124.0,Canada,CA,CAN,
+132.0,"Cape Verde, Republic of",CV,CPV,AF
+136.0,Cayman Islands,KY,CYM,
+140.0,Central African Republic,CF,CAF,AF
+144.0,"Sri Lanka, Democratic Socialist Republic of",LK,LKA,AS
+148.0,"Chad, Republic of",TD,TCD,AF
+152.0,"Chile, Republic of",CL,CHL,SA
+156.0,"China, People's Republic of",CN,CHN,AS
+158.0,Taiwan,TW,TWN,AS
+162.0,Christmas Island,CX,CXR,AS
+166.0,Cocos (Keeling) Islands,CC,CCK,AS
+170.0,"Colombia, Republic of",CO,COL,SA
+174.0,"Comoros, Union of the",KM,COM,AF
+175.0,Mayotte,YT,MYT,AF
+178.0,"Congo, Republic of the",CG,COG,AF
+180.0,"Congo, Democratic Republic of the",CD,COD,AF
+184.0,Cook Islands,CK,COK,OC
+188.0,"Costa Rica, Republic of",CR,CRI,
+191.0,"Croatia, Republic of",HR,HRV,EU
+192.0,"Cuba, Republic of",CU,CUB,
+196.0,"Cyprus, Republic of",CY,CYP,EU
+196.0,"Cyprus, Republic of",CY,CYP,AS
+203.0,Czech Republic,CZ,CZE,EU
+204.0,"Benin, Republic of",BJ,BEN,AF
+208.0,"Denmark, Kingdom of",DK,DNK,EU
+212.0,"Dominica, Commonwealth of",DM,DMA,
+214.0,Dominican Republic,DO,DOM,
+218.0,"Ecuador, Republic of",EC,ECU,SA
+222.0,"El Salvador, Republic of",SV,SLV,
+226.0,"Equatorial Guinea, Republic of",GQ,GNQ,AF
+231.0,"Ethiopia, Federal Democratic Republic of",ET,ETH,AF
+232.0,"Eritrea, State of",ER,ERI,AF
+233.0,"Estonia, Republic of",EE,EST,EU
+234.0,Faroe Islands,FO,FRO,EU
+238.0,Falkland Islands (Malvinas),FK,FLK,SA
+239.0,South Georgia and the South Sandwich Islands,GS,SGS,AN
+242.0,"Fiji, Republic of the Fiji Islands",FJ,FJI,OC
+246.0,"Finland, Republic of",FI,FIN,EU
+248.0,Ã…land Islands,AX,ALA,EU
+250.0,"France, French Republic",FR,FRA,EU
+254.0,French Guiana,GF,GUF,SA
+258.0,French Polynesia,PF,PYF,OC
+260.0,French Southern Territories,TF,ATF,AN
+262.0,"Djibouti, Republic of",DJ,DJI,AF
+266.0,"Gabon, Gabonese Republic",GA,GAB,AF
+268.0,Georgia,GE,GEO,EU
+268.0,Georgia,GE,GEO,AS
+270.0,"Gambia, Republic of the",GM,GMB,AF
+275.0,"Palestinian Territory, Occupied",PS,PSE,AS
+276.0,"Germany, Federal Republic of",DE,DEU,EU
+288.0,"Ghana, Republic of",GH,GHA,AF
+292.0,Gibraltar,GI,GIB,EU
+296.0,"Kiribati, Republic of",KI,KIR,OC
+300.0,"Greece, Hellenic Republic",GR,GRC,EU
+304.0,Greenland,GL,GRL,
+308.0,Grenada,GD,GRD,
+312.0,Guadeloupe,GP,GLP,
+316.0,Guam,GU,GUM,OC
+320.0,"Guatemala, Republic of",GT,GTM,
+324.0,"Guinea, Republic of",GN,GIN,AF
+328.0,"Guyana, Co-operative Republic of",GY,GUY,SA
+332.0,"Haiti, Republic of",HT,HTI,
+334.0,Heard Island and McDonald Islands,HM,HMD,AN
+336.0,Holy See (Vatican City State),VA,VAT,EU
+340.0,"Honduras, Republic of",HN,HND,
+344.0,"Hong Kong, Special Administrative Region of China",HK,HKG,AS
+348.0,"Hungary, Republic of",HU,HUN,EU
+352.0,"Iceland, Republic of",IS,ISL,EU
+356.0,"India, Republic of",IN,IND,AS
+360.0,"Indonesia, Republic of",ID,IDN,AS
+364.0,"Iran, Islamic Republic of",IR,IRN,AS
+368.0,"Iraq, Republic of",IQ,IRQ,AS
+372.0,Ireland,IE,IRL,EU
+376.0,"Israel, State of",IL,ISR,AS
+380.0,"Italy, Italian Republic",IT,ITA,EU
+384.0,"Cote d'Ivoire, Republic of",CI,CIV,AF
+388.0,Jamaica,JM,JAM,
+392.0,Japan,JP,JPN,AS
+398.0,"Kazakhstan, Republic of",KZ,KAZ,EU
+398.0,"Kazakhstan, Republic of",KZ,KAZ,AS
+400.0,"Jordan, Hashemite Kingdom of",JO,JOR,AS
+404.0,"Kenya, Republic of",KE,KEN,AF
+408.0,"Korea, Democratic People's Republic of",KP,PRK,AS
+410.0,"Korea, Republic of",KR,KOR,AS
+414.0,"Kuwait, State of",KW,KWT,AS
+417.0,Kyrgyz Republic,KG,KGZ,AS
+418.0,Lao People's Democratic Republic,LA,LAO,AS
+422.0,"Lebanon, Lebanese Republic",LB,LBN,AS
+426.0,"Lesotho, Kingdom of",LS,LSO,AF
+428.0,"Latvia, Republic of",LV,LVA,EU
+430.0,"Liberia, Republic of",LR,LBR,AF
+434.0,Libyan Arab Jamahiriya,LY,LBY,AF
+438.0,"Liechtenstein, Principality of",LI,LIE,EU
+440.0,"Lithuania, Republic of",LT,LTU,EU
+442.0,"Luxembourg, Grand Duchy of",LU,LUX,EU
+446.0,"Macao, Special Administrative Region of China",MO,MAC,AS
+450.0,"Madagascar, Republic of",MG,MDG,AF
+454.0,"Malawi, Republic of",MW,MWI,AF
+458.0,Malaysia,MY,MYS,AS
+462.0,"Maldives, Republic of",MV,MDV,AS
+466.0,"Mali, Republic of",ML,MLI,AF
+470.0,"Malta, Republic of",MT,MLT,EU
+474.0,Martinique,MQ,MTQ,
+478.0,"Mauritania, Islamic Republic of",MR,MRT,AF
+480.0,"Mauritius, Republic of",MU,MUS,AF
+484.0,"Mexico, United Mexican States",MX,MEX,
+492.0,"Monaco, Principality of",MC,MCO,EU
+496.0,Mongolia,MN,MNG,AS
+498.0,"Moldova, Republic of",MD,MDA,EU
+499.0,"Montenegro, Republic of",ME,MNE,EU
+500.0,Montserrat,MS,MSR,
+504.0,"Morocco, Kingdom of",MA,MAR,AF
+508.0,"Mozambique, Republic of",MZ,MOZ,AF
+512.0,"Oman, Sultanate of",OM,OMN,AS
+516.0,"Namibia, Republic of",,NAM,AF
+520.0,"Nauru, Republic of",NR,NRU,OC
+524.0,"Nepal, State of",NP,NPL,AS
+528.0,"Netherlands, Kingdom of the",NL,NLD,EU
+530.0,Netherlands Antilles,AN,ANT,
+531.0,CuraÃ§ao,CW,CUW,
+533.0,Aruba,AW,ABW,
+534.0,Sint Maarten (Netherlands),SX,SXM,
+535.0,"Bonaire, Sint Eustatius and Saba",BQ,BES,
+540.0,New Caledonia,NC,NCL,OC
+548.0,"Vanuatu, Republic of",VU,VUT,OC
+554.0,New Zealand,NZ,NZL,OC
+558.0,"Nicaragua, Republic of",NI,NIC,
+562.0,"Niger, Republic of",NE,NER,AF
+566.0,"Nigeria, Federal Republic of",NG,NGA,AF
+570.0,Niue,NU,NIU,OC
+574.0,Norfolk Island,NF,NFK,OC
+578.0,"Norway, Kingdom of",NO,NOR,EU
+580.0,"Northern Mariana Islands, Commonwealth of the",MP,MNP,OC
+581.0,United States Minor Outlying Islands,UM,UMI,OC
+581.0,United States Minor Outlying Islands,UM,UMI,
+583.0,"Micronesia, Federated States of",FM,FSM,OC
+584.0,"Marshall Islands, Republic of the",MH,MHL,OC
+585.0,"Palau, Republic of",PW,PLW,OC
+586.0,"Pakistan, Islamic Republic of",PK,PAK,AS
+591.0,"Panama, Republic of",PA,PAN,
+598.0,"Papua New Guinea, Independent State of",PG,PNG,OC
+600.0,"Paraguay, Republic of",PY,PRY,SA
+604.0,"Peru, Republic of",PE,PER,SA
+608.0,"Philippines, Republic of the",PH,PHL,AS
+612.0,Pitcairn Islands,PN,PCN,OC
+616.0,"Poland, Republic of",PL,POL,EU
+620.0,"Portugal, Portuguese Republic",PT,PRT,EU
+624.0,"Guinea-Bissau, Republic of",GW,GNB,AF
+626.0,"Timor-Leste, Democratic Republic of",TL,TLS,AS
+630.0,"Puerto Rico, Commonwealth of",PR,PRI,
+634.0,"Qatar, State of",QA,QAT,AS
+638.0,Reunion,RE,REU,AF
+642.0,Romania,RO,ROU,EU
+643.0,Russian Federation,RU,RUS,EU
+643.0,Russian Federation,RU,RUS,AS
+646.0,"Rwanda, Republic of",RW,RWA,AF
+652.0,Saint Barthelemy,BL,BLM,
+654.0,Saint Helena,SH,SHN,AF
+659.0,"Saint Kitts and Nevis, Federation of",KN,KNA,
+660.0,Anguilla,AI,AIA,
+662.0,Saint Lucia,LC,LCA,
+663.0,Saint Martin,MF,MAF,
+666.0,Saint Pierre and Miquelon,PM,SPM,
+670.0,Saint Vincent and the Grenadines,VC,VCT,
+674.0,"San Marino, Republic of",SM,SMR,EU
+678.0,"Sao Tome and Principe, Democratic Republic of",ST,STP,AF
+682.0,"Saudi Arabia, Kingdom of",SA,SAU,AS
+686.0,"Senegal, Republic of",SN,SEN,AF
+688.0,"Serbia, Republic of",RS,SRB,EU
+690.0,"Seychelles, Republic of",SC,SYC,AF
+694.0,"Sierra Leone, Republic of",SL,SLE,AF
+702.0,"Singapore, Republic of",SG,SGP,AS
+703.0,Slovakia (Slovak Republic),SK,SVK,EU
+704.0,"Vietnam, Socialist Republic of",VN,VNM,AS
+705.0,"Slovenia, Republic of",SI,SVN,EU
+706.0,"Somalia, Somali Republic",SO,SOM,AF
+710.0,"South Africa, Republic of",ZA,ZAF,AF
+716.0,"Zimbabwe, Republic of",ZW,ZWE,AF
+724.0,"Spain, Kingdom of",ES,ESP,EU
+728.0,South Sudan,SS,SSD,AF
+732.0,Western Sahara,EH,ESH,AF
+736.0,"Sudan, Republic of",SD,SDN,AF
+740.0,"Suriname, Republic of",SR,SUR,SA
+744.0,Svalbard & Jan Mayen Islands,SJ,SJM,EU
+748.0,"Swaziland, Kingdom of",SZ,SWZ,AF
+752.0,"Sweden, Kingdom of",SE,SWE,EU
+756.0,"Switzerland, Swiss Confederation",CH,CHE,EU
+760.0,Syrian Arab Republic,SY,SYR,AS
+762.0,"Tajikistan, Republic of",TJ,TJK,AS
+764.0,"Thailand, Kingdom of",TH,THA,AS
+768.0,"Togo, Togolese Republic",TG,TGO,AF
+772.0,Tokelau,TK,TKL,OC
+776.0,"Tonga, Kingdom of",TO,TON,OC
+780.0,"Trinidad and Tobago, Republic of",TT,TTO,
+784.0,United Arab Emirates,AE,ARE,AS
+788.0,"Tunisia, Tunisian Republic",TN,TUN,AF
+792.0,"Turkey, Republic of",TR,TUR,EU
+792.0,"Turkey, Republic of",TR,TUR,AS
+795.0,Turkmenistan,TM,TKM,AS
+796.0,Turks and Caicos Islands,TC,TCA,
+798.0,Tuvalu,TV,TUV,OC
+800.0,"Uganda, Republic of",UG,UGA,AF
+804.0,Ukraine,UA,UKR,EU
+807.0,"Macedonia, The Former Yugoslav Republic of",MK,MKD,EU
+818.0,"Egypt, Arab Republic of",EG,EGY,AF
+826.0,United Kingdom of Great Britain & Northern Ireland,GB,GBR,EU
+831.0,"Guernsey, Bailiwick of",GG,GGY,EU
+832.0,"Jersey, Bailiwick of",JE,JEY,EU
+833.0,Isle of Man,IM,IMN,EU
+834.0,"Tanzania, United Republic of",TZ,TZA,AF
+840.0,United States of America,US,USA,
+850.0,United States Virgin Islands,VI,VIR,
+854.0,Burkina Faso,BF,BFA,AF
+858.0,"Uruguay, Eastern Republic of",UY,URY,SA
+860.0,"Uzbekistan, Republic of",UZ,UZB,AS
+862.0,"Venezuela, Bolivarian Republic of",VE,VEN,SA
+876.0,Wallis and Futuna,WF,WLF,OC
+882.0,"Samoa, Independent State of",WS,WSM,OC
+887.0,Yemen,YE,YEM,AS
+894.0,"Zambia, Republic of",ZM,ZMB,AF
+-1,Disputed Territory,XX,,OC
+-2,Iraq-Saudi Arabia Neutral Zone,XE,,AS
+-3,United Nations Neutral Zone,XD,,AS
+-4,Spratly Islands,XS,,AS
