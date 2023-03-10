@@ -1,0 +1,19 @@
+ds_id,ds_version,field_name,field_description,field_datatype
+1,0.1,ContinentName,The name of the continent,String
+1,0.1,ContinentCode,The code that uniquely identifies the continent,String
+1,0.1,CountryName,The name of the country,String
+1,0.1,TwoLetterCountryCode,The original 2 letter code used by ISO to identify countries,String
+1,0.1,ThreeLetterCountryCode,The original 3 letter code used by ISO to identify countries,String
+1,0.1,CountryNumber,The number assigned to the country by ISO,Integer
+1,0.2,Continent_name,The name of the continent,String
+1,0.2,Continent_Code,The code that uniquely identifies the continent,String
+1,0.2,Country_Name,The name of the country,String
+1,0.2,Two_Letter_Country_Code,The original 2 letter code used by ISO to identify countries,String
+1,0.2,Three_Letter_Country_Code,The original 3 letter code used by ISO to identify countries,String
+1,0.2,Country_Number,The number assigned to the country by ISO,Integer
+2,0.1,CountryName,The name of the country,String
+2,0.1,TwoLetterCountryCode,The original 2 letter code used by ISO to identify countries,String
+2,0.1,ThreeLetterCountryCode,The original 3 letter code used by ISO to identify countries,String
+2,0.1,CountryNumber,The number assigned to the country by ISO,Integer
+3,0.1,Continent_Name,The name of the continent,String
+3,0.1,Continent_Code,The code that uniquely identifies the continent,String
