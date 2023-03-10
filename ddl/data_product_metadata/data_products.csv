@@ -1,2 +1,2 @@
-id,name,version
-1,"data_product_poc",0.1
+id,name,root_uri,version,description,security_classification,deprecation_date
+1,"data_product_poc","https://data.shell.com/trading_and_supply/idt/data_architecture/data_product_poc",0.1,"This API returns high quality analytical business data",1,"9999-01-01"
