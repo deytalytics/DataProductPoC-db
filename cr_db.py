@@ -56,6 +56,10 @@ def cr_db(dbname):
     elif dbname==dirs.metadata_db:
         data = pd.read_csv(dirs.metadata_dir + 'data_products.csv')
         data.to_sql('data_products', conn, if_exists='replace', index=False)
+        data = pd.read_csv(dirs.metadata_dir + 'data_product_x_owners.csv')
+        data.to_sql('data_product_x_owners', conn, if_exists='replace', index=False)
+        data = pd.read_csv(dirs.metadata_dir + 'data_product_owners.csv')
+        data.to_sql('data_product_owners', conn, if_exists='replace', index=False)
         data = pd.read_csv(dirs.metadata_dir + 'data_product_data_sources.csv')
         data.to_sql('data_product_data_sources', conn, if_exists='replace', index=False)
         data = pd.read_csv(dirs.metadata_dir + 'data_source_data_sharing_agreements.csv')
