@@ -1,0 +1,3 @@
+id,data_source_id,name,url_suffix
+1,1,"Data sharing agreement with Kafka Platform Owner","/static/docs/Kafka-Data_Product_PoC_DSA.docx"
+1,2,"Data sharing agreement with Databricks SQL Warehouse Platform Owner","/static/docs/Kafka-Data_Product_PoC_DSA.docx"
